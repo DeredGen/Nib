@@ -1,0 +1,4 @@
+Nib
+===
+
+A text editor
